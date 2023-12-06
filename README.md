@@ -6,6 +6,6 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Four card feature section](https://your-solution-url.com)
+- Solution URL: [Four card feature section]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/four-card-feature-section-using-css-grid-mohkShmsgd))
 - Live Site URL: [https://amgnim.github.io/four-card-feature-section/](https://amgnim.github.io/four-card-feature-section/)
 
