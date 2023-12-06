@@ -1,0 +1,34 @@
+/* Using reset styles based on Josh W. Comeau's  (https://www.joshwcomeau.com/css/custom-css-reset/) Modern CSS Reset*/
+
+/* Box sizing rules */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Remove default margin, padding and font styles */
+* {
+  margin: 0;
+  padding: 0;
+  font: inherit;
+}
+
+/* Set body defaults */
+body {
+  min-height: 100vh;
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Improve media defaults */
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+/* ========================================================================================================*/
