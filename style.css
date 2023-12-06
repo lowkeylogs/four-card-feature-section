@@ -32,3 +32,26 @@ svg {
 }
 
 /* ========================================================================================================*/
+
+/* Custom properties */
+
+:root {
+  --color-primary-red: hsl(0, 78%, 62%);
+  --color-primary-cyan: hsl(180, 62%, 55%);
+  --color-primary-orange: hsl(34, 97%, 64%);
+  --color-primary-blue: hsl(212, 86%, 64%);
+
+  --color-neutral-light-gray: hsl(0, 0%, 98%);
+  --color-neutral-grayish-blue: hsl(229, 6%, 66%);
+  --color-neutral-dark-blue: hsl(234, 12%, 34%);
+
+  --font-size-400: 14px;
+  --font-size-500: 15px;
+  --font-size-600: 20px;
+  --font-size-700: 24px;
+
+  --font-weight-200: 200;
+  --font-weight-500: 400;
+  --font-weight-600: 600;
+
+}
